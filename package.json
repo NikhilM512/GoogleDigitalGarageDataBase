@@ -1,0 +1,24 @@
+{
+  "name": "googledigitalgaragedatabase",
+  "version": "1.0.0",
+  "description": "Repository created to deploy the database of Google Digital Garage RCT-101 Project",
+  "main": "index.js",
+  "scripts": {
+    "start" :"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikras512/GoogleDigitalGarageDataBase.git"
+  },
+  "keywords": [],
+  "author": "Nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikras512/GoogleDigitalGarageDataBase/issues"
+  },
+  "homepage": "https://github.com/Nikras512/GoogleDigitalGarageDataBase#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
